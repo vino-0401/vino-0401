@@ -7,8 +7,8 @@
 - 🛠 Skills
 - **Cloud:** AWS (VPC, EC2, Security Groups, NAT, NACLs)
 - **Linux:** Apache Web Server, Sendmail, System Administration
-- **Languages:** Bash, Python (basic)
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** Python (basic)
+- **Tools:** Git, Docker, 
 - 📈 GitHub Stats
 ![vino GitHub stats](https://github-readme-stats.vercel.app/api?username=vino&show_icons=true&theme=dark)
 
